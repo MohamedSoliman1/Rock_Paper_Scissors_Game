@@ -4,11 +4,13 @@ This code is an implementation of the famous game Rock, Paper, Scissors.
 The user can choose to play against the computer or against another player.
 If you feel you don't understand a code portion, always check the comments! It illustrates almost everything.
 
-----How to play the game---
+----How to play the game----
 1) The code is user friendly, it will tell you each step to need to do in order to play.
 2) The inputs are case insensitive. so RoCk rocK ROCK are all the same.
 
-2) Game example: (When you run the code the following will happen)
+
+----Game example---- 
+(When you run the code the following will happen)
 
 Hi there! Do you want to play with the computer or with a friend?
 Enter your choice (Computer/friend): <Your choice>  
