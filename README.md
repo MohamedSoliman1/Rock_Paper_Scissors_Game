@@ -24,13 +24,14 @@ Player2: Enter your choice(Rock/Paper/Scissors): <Your choice>
 #Let's say you entered paper
   
 #Output
+
 Player 1 chose rock - Player 2 chose paper
 
 Player 2 wins
 
 Do you want to exit?
-E
-nter your choice: (Yes/No)? <Your choice>
+
+Enter your choice: (Yes/No)? <Your choice>
 #If you choose yes you will play another game, but if you choose no the game will exit!.
   
 
