@@ -14,7 +14,7 @@ If you feel you don't understand a code portion, always check the comments! It i
 
 Hi there! Do you want to play with the computer or with a friend?
 Enter your choice (Computer/friend): <Your choice>  
-#Let's say you choe friend.
+#Let's say you chose friend.
   
 Player1: Enter your choice(Rock/Paper/Scissors): <Your choice>
 #The input will appear as asterisk **** so that you can't cheat ! :D
