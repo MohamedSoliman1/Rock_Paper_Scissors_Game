@@ -19,6 +19,7 @@ Enter your choice (Computer/friend): <Your choice>
 Player1: Enter your choice(Rock/Paper/Scissors): <Your choice>
 #The input will appear as asterisk **** so that you can't cheat ! :D
 #Let's say you entered rock.
+  
 Player2: Enter your choice(Rock/Paper/Scissors): <Your choice>
 #Let's say you entered paper
   
